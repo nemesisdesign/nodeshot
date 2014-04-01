@@ -1,5 +1,3 @@
-Extensible Django web application for management of community-led georeferenced data.
+# This repo has moved
 
-New version in development. Stay tuned.
-
-Find the documentation (work in progress) here: http://nodeshot.readthedocs.org/en/latest/
+Follow / watch the main repo please: https://github.com/ninuxorg/nodeshot/
